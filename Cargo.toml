@@ -1,0 +1,9 @@
+[package]
+name = "issue"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+blockifier = "=0.5.0"
+
+[lib]
